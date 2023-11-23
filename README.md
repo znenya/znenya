@@ -138,4 +138,7 @@ payments_by_dates_cumsum as (
 </details>
 
 
+#### Контактная информация
+
+Email: raskardash19@gmail.com
 
